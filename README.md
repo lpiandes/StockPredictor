@@ -1,1 +1,1 @@
-# StockPredictor
+My stock predictor app is for a fun project idea and not actual investing advice. I created this app to give a prediction of what a certain companys stock price will be for the next day based on a simple AI model and training and testing with past data.
